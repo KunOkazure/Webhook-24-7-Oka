@@ -12,13 +12,13 @@ const imageUrls = [
   
   const themefullmoon = {
       use: true,
-      name:"🌖 FULL MOON 🌔",
+      name:"FULL MOON",
       "color": 0x4287f5,
       url:'https://discord.com/api/webhooks/1334921804023726187/7BvKg5R9sMXjavErU7YmRO4Y-0OG8sy3c4GceKsgeKfpr9YpvIwSeBQkEw4FCrevWe6A'
     }
    const themeNearFull = {
       use: true,
-      name:"🌒 NEAR FULL MOON 🌒",
+      name:"NEAR FULL MOON",
       "color": 0x4287f5,
       url:'https://discord.com/api/webhooks/1334921946852495501/twCXo4Gg-nEhVEmAbTzZ-2Ar8Xpz7nKRB5CDm1t5gUsQD9AEvnVX2oOPXhIbTvjZZeEs'
     }   
@@ -260,6 +260,6 @@ const imageUrls = [
     } 
   });
   
-  const token = 'MTE3ODEwNDgyOTQyMDI1NzMzMA.GEQ6h5.Mqq2iDMakXC6FFkjmD5B3DhBW9wRKyP7iKcooE';
+  const token = 'MTE3ODEwNDgyOTQyMDI1NzMzMA.G9zdON.7C0z8-lttQl0JEfz2VOGEh_Qe0v_2zpzEcE0Gc';
   
   DiscordBot.login(token);
